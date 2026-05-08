@@ -8,4 +8,4 @@
  ### q2 --> q3 : b
  ### q3 --> q1 : a
  ### q3 --> q2 : b
-  ### state q1 <<accept>>
+  ### state q1 << accept >>
