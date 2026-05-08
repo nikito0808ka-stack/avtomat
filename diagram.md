@@ -1,2 +1,2 @@
 # Графическая схема автомата
-<img width="359" height="394" alt="image" src="https://github.com/user-attachments/assets/ea502d4b-4a39-4856-b051-9a34dc9ee8ed" />
+<img width="265" height="400" alt="image" src="https://github.com/user-attachments/assets/bda3477c-ec7f-462e-8612-058a1f2377c2" />
