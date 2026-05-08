@@ -1,8 +1,8 @@
-stateDiagram-v2
- [*] --> q0
- q0 --> q2 : a
- q0 --> q1 : b
- q1 --> q3 : a
+# stateDiagram-v2
+ ## [*] --> q0
+ ## q0 --> q2 : a
+ ## q0 --> q1 : b
+ ## q1 --> q3 : a
  q1 --> q0 : b
  q2 --> q0 : a
  q2 --> q3 : b
